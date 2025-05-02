@@ -1,0 +1,67 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #9FB3DF;
+  text-align: center;
+  padding: 20px;
+}
+
+.heading {
+  background-color: #FFF1D5;
+  text-align: center;
+  color: black;
+}
+
+.subject-card {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #BDDDE4;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.custom-input {
+  background-color: lightskyblue;
+}
+    
+.score {
+  font-size: 24px;
+  font-weight: bold;
+  color: navy;
+}
+
+.instruction-text {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+  color: #333;
+}
+
+.subject-img {
+  width: 100%;
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px;
+}
+
+/* Background image classes */
+.science-img {
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5877ca6986e6c00f05f58f84/1616529078025-0H8KYK9YHKLBA3O5EHQN/the-science-of-science-cover.jpg');
+}
+
+.math-img {
+  background-image: url('https://m.media-amazon.com/images/I/81r5Cm0nVeL.jpg');
+}
+
+.english-img {
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMiGLocpsqUuNRRfepAXJJvP6dPuTI4G3AD6TbbM6NI-CEesLDDAl3dF5_Vcb2usaiCXHjm31q9cQykUXohwR1t-_Xm0JUK0au3OAlGws6onzXBeZJTps-R1N7ZelC_FuqYz4hwI5W8gtTNYgm20Inxr9epc2Y-NIgXIxtswn-OICfXVPmMp2-cgm-mQ/w555-h555-c/1.jpg');
+}
+
+.filipino-img {
+  background-image: url('https://eyeofthetiger25.wordpress.com/wp-content/uploads/2016/02/2012b-noli_me_tangere.jpg');
+}
+
+.socialstudies-img {
+  background-image: url('https://www.oasispublication.com.np/uploads/social-9.jpg');
+}
